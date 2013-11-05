@@ -4,5 +4,9 @@
     <string name="app_name">classLab7</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="layout1">Layout1</string>
+    <string name="layout2">Layout2</string>
+    <string name="layout3">Layout3</string>
+    <string name="layout4">Layout4</string>
 
 </resources>
